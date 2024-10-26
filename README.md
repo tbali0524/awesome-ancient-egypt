@@ -36,6 +36,7 @@ _Just a very limited selection with great content._
 * [Digital Egypt for Universities](https://www.ucl.ac.uk/museums-static/digitalegypt/)
 * [OsirisNet: Tombs of Ancient Egypt](https://www.osirisnet.net/)
 * [Pharaohs](https://pharaoh.se/)
+* [The Ancient Egypt Site](https://www.ancient-egypt.org/)
 
 ## Geolocations
 
@@ -73,7 +74,7 @@ _With English translations._
 * [Egyptian Tales, Translated from the Papyri: First series, IVth to XIIth dynasty, by W. M. Flinders Petrie](https://www.gutenberg.org/ebooks/7386)
 * [Pyramid Texts of Unas](https://pyramidtextsonline.com/)
 
-# Hieroglyphs
+## Hieroglyphs
 
 * [Gardiner's sign list](https://en.wikipedia.org/wiki/Gardiner%27s_sign_list)
 * [Hieroglyphs in Unicode](https://en.wikipedia.org/wiki/Egyptian_Hieroglyphs_(Unicode_block))
@@ -82,7 +83,7 @@ _With English translations._
 
 * [reddit/ancientegypt](https://www.reddit.com/r/ancientegypt/)
 
-## Some egyptologist to follow on social media
+## Some egyptologists to follow on social media
 
 * [rudjedet @tumblr](https://www.tumblr.com/rudjedet)
 * [thatlittleegyptologist @tumblr](https://thatlittleegyptologist.tumblr.com/)
@@ -90,6 +91,7 @@ _With English translations._
 ## Link collections
 
 * [Wikipedia: Index of ancient Egypt–related articles](https://en.wikipedia.org/wiki/Index_of_ancient_Egypt%E2%80%93related_articles)
+* [Wikipedia: List of notable egyptologists](https://en.wikipedia.org/wiki/List_of_Egyptologists)
 
 ---
 
