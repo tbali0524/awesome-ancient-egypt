@@ -2,7 +2,7 @@
 # Awesome Ancient Egypt
 -->
 
-_Last updated: 2024.10.26._
+_Last updated: 2024.10.27._
 
 Content is limited to free-to-access, English language material targeting mainly non-academic, adult audience. There is a huge amount of online resources available, so the selection here is somewhat subjective to keep the length limited.
 
@@ -19,7 +19,7 @@ __Quick jump to section:__ [Podcasts](#podcasts) [Youtube](#youtube-channels) [B
 ## YouTube channels
 
 * [World of Antiquity](https://www.youtube.com/@WorldofAntiquity)
-* National Geographic: documentary full episodes [1](https://www.youtube.com/watch?v=8AgeNvHZ_ks&t=5s) [2](https://www.youtube.com/watch?v=9G69n11o3z8) [3](https://www.youtube.com/watch?v=89xTTczbv0E)
+* National Geographic: documentary full episodes: [1](https://www.youtube.com/watch?v=8AgeNvHZ_ks&t=5s) [2](https://www.youtube.com/watch?v=9G69n11o3z8) [3](https://www.youtube.com/watch?v=89xTTczbv0E)
 
 ## Blogs
 
@@ -98,3 +98,5 @@ _With English translations._
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+_(This is the license for this page only, all the resources linked here have their own respective license terms.)_

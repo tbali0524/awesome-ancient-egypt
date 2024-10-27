@@ -2,5 +2,6 @@
     "default" : true,
     "ul-indent" : { "indent" : 4 },
     "line-length" : false,
-    "first-line-heading" : false
+    "first-line-heading" : false,
+    "no-emphasis-as-heading" : false
 }
