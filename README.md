@@ -2,7 +2,7 @@
 # Awesome Ancient Egypt
 -->
 
-_Last updated: 2024.10.27._
+_Last updated: 2024.10.28._
 
 Content is limited to free-to-access, English language material targeting mainly non-academic, adult audience. There is a huge amount of online resources available, so the selection here is somewhat subjective to keep the length limited.
 
@@ -14,15 +14,20 @@ __Quick jump to section:__ [Podcasts](#podcasts) [Youtube](#youtube-channels) [B
 
 ## Podcasts
 
-* [The History of Egypt Podcast](https://www.egyptianhistorypodcast.com/)
+* [The History of Egypt Podcast](https://www.egyptianhistorypodcast.com/) - 250+ episodes
+* [Afterlives with Kara Cooney](https://karacooney.squarespace.com/podcast-afterlives) - 50+ episodes
+* [ARCE Podcast](https://arce.org/podcast/) - ~18 episodes
 
 ## YouTube channels
 
 * [World of Antiquity](https://www.youtube.com/@WorldofAntiquity)
-* National Geographic: documentary full episodes: [1](https://www.youtube.com/watch?v=8AgeNvHZ_ks&t=5s) [2](https://www.youtube.com/watch?v=9G69n11o3z8) [3](https://www.youtube.com/watch?v=89xTTczbv0E)
+* National Geographic: documentary full episodes: [1](https://www.youtube.com/watch?v=8AgeNvHZ_ks) [2](https://www.youtube.com/watch?v=BoBapnk6TB8) [3](https://www.youtube.com/watch?v=9G69n11o3z8) [4](https://www.youtube.com/watch?v=89xTTczbv0E) [5](https://www.youtube.com/watch?v=uS4Ujf-lVWc)
 
 ## Blogs
 
+* [Ancient Egypt Blog](https://www.ancientegyptblog.com/)
+* [Dr Chris Naunton's Blog](https://chrisnaunton.com/blog/)
+* [Tales from the Two Lands](https://talesfromthetwolands.org/)
 * [SciTechDaily](https://scitechdaily.com/tag/egyptology/)
 
 ## Websites
@@ -50,19 +55,21 @@ _Just a very limited selection with great content._
 
 ## eLearning
 
+_Free online courses._
+
 * [HarvardX: Pyramids of Giza: Ancient Egyptian Art and Archaeology](https://www.edx.org/learn/archaeology/harvard-university-pyramids-of-giza-ancient-egyptian-art-and-archaeology)
 * [Coursera: Introduction to Ancient Egypt and Its Civilization](https://www.coursera.org/learn/introancientegypt)
 * [Coursera: Wonders of Ancient Egypt](https://www.coursera.org/learn/wonders-ancient-egypt)
-* [American Research Center in Egypt: Online Lectures](https://arce.org/online-lectures/)
+* [American Research Center in Egypt (ARCE): Online Lectures](https://arce.org/online-lectures/)
 
 ## eBooks
 
 * [Guide to Ancient Egyptian Art, by Smarthistory](https://smarthistory.org/smarthistory-guide-to-ancient-egyptian-art/)
 
-The following texts are well over 75 years old, so they are only for historic interest:
+The following texts are well over 100 years old, so they are only for historic interest:
 
 * [Manual of Egyptian Archaeology and Guide to the Study of Antiquities in Egypt, by G. Maspero](https://www.gutenberg.org/ebooks/14400)
-* [Ancient Egypt, by George Rawlinson and Arthur Gilman](https://www.gutenberg.org/ebooks/15663) - a historical account written in the late 19th century
+* [Ancient Egypt, by George Rawlinson and Arthur Gilman](https://www.gutenberg.org/ebooks/15663)
 * [The Egyptian Conception of Immortality, by George Andrew Reisner](https://www.gutenberg.org/ebooks/12255)
 * [An Account of Egypt, by Herodotus](https://www.gutenberg.org/ebooks/2131)
 
@@ -92,6 +99,7 @@ _With English translations._
 
 * [Wikipedia: Index of ancient Egypt–related articles](https://en.wikipedia.org/wiki/Index_of_ancient_Egypt%E2%80%93related_articles)
 * [Wikipedia: List of notable egyptologists](https://en.wikipedia.org/wiki/List_of_Egyptologists)
+* [IMDB: Films set in Ancient Egypt](https://www.imdb.com/list/ls059340676/)
 
 ---
 
