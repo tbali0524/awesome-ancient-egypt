@@ -2,13 +2,13 @@
 # Awesome Ancient Egypt
 -->
 
-_Last updated: 2024.10.28._
+_Last updated: 2024.11.11._
 
 Content is limited to free-to-access, English language material targeting mainly non-academic, adult audience. There is a huge amount of online resources available, so the selection here is somewhat subjective to keep the length limited.
 
 Additions and corrections are welcome, just open a _Pull Request_ or create a new _Issue_ in the [source repository of this page](https://github.com/tbali0524/awesome-ancient-egypt) on _GitHub_, or contact the [maintainer](https://github.com/tbali0524) in any other way.
 
-__Quick jump to section:__ [Podcasts](#podcasts) [Youtube](#youtube-channels) [Blogs](#blogs) [Websites](#websites) [Geolocations](#geolocations) [Models in 3D](#models-in-3d) [eLearning](#elearning) [eBooks](#ebooks) [Texts](#ancient-texts) [Social media](#social-media)
+__Quick jump to section:__ [Podcasts](#podcasts) [Youtube](#youtube-channels) [Blogs](#blogs) [Websites](#websites) [Geolocations](#geolocations) [Models in 3D](#models-in-3d) [eLearning](#elearning) [eBooks](#ebooks) [Texts](#ancient-texts) [Social media](#social-media) [Lists](#lists)
 
 ---
 
@@ -95,11 +95,12 @@ _With English translations._
 * [rudjedet @tumblr](https://www.tumblr.com/rudjedet)
 * [thatlittleegyptologist @tumblr](https://thatlittleegyptologist.tumblr.com/)
 
-## Link collections
+## Lists
 
-* [Wikipedia: Index of ancient Egypt–related articles](https://en.wikipedia.org/wiki/Index_of_ancient_Egypt%E2%80%93related_articles)
+* [Wikipedia: Index of ancient Egypt-related articles](https://en.wikipedia.org/wiki/Index_of_ancient_Egypt%E2%80%93related_articles)
 * [Wikipedia: List of notable egyptologists](https://en.wikipedia.org/wiki/List_of_Egyptologists)
 * [IMDB: Films set in Ancient Egypt](https://www.imdb.com/list/ls059340676/)
+* [GoodReads: List of books about Ancient Egypt](https://www.goodreads.com/shelf/show/ancient-egypt)
 
 ---
 
