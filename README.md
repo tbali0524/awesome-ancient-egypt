@@ -42,6 +42,7 @@ _Just a very limited selection with great content._
 * [OsirisNet: Tombs of Ancient Egypt](https://www.osirisnet.net/)
 * [Pharaohs](https://pharaoh.se/)
 * [The Ancient Egypt Site](https://www.ancient-egypt.org/)
+* [MythCairn: Egyptian Gods](https://mythcairn.com/egyptian-gods/)
 
 ## Geolocations
 
